@@ -29,9 +29,12 @@ THEN the password is either displayed in an alert or written to the page
 ```
 1. Write all the requirements into the javascript so I make sure everything is covered
 
-2. Research password generator code and javascript
+2. Write the javascript
 
-3. 
-* The URL of the deployed application.
+3. The URL of the deployed application.
+https://ajoanbell.github.io/week3_challenge/
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+4. The URL of the GitHub repository, with a unique name and a readme describing the project.
+https://github.com/AJoanBell/week3_challenge
+
+5. Screenshot of deployed application
