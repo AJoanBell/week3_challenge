@@ -38,3 +38,24 @@ https://ajoanbell.github.io/week3_challenge/
 https://github.com/AJoanBell/week3_challenge
 
 5. Screenshot of deployed application
+
+Screen shot of user choosing their password length
+
+<img width="1360" alt="Screen Shot 2022-06-02 at 4 27 56 pm" src="https://user-images.githubusercontent.com/36496885/171567057-cb50074c-554f-4c9f-a772-18d955570fca.png">
+
+Screen shot of user being prompted to set character parameters
+<img width="1264" alt="Screen Shot 2022-06-02 at 4 28 09 pm" src="https://user-images.githubusercontent.com/36496885/171567172-e3bcf8d3-95d1-4fec-b0b4-714174578ef5.png">
+
+Screen shot of user having their password generated - final window
+
+<img width="1195" alt="Screen Shot 2022-06-02 at 4 28 20 pm" src="https://user-images.githubusercontent.com/36496885/171567282-4a0268f6-001f-44ad-b473-28a25be42146.png">
+
+
+
+
+
+
+
+
+
+
